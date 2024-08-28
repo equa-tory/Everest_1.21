@@ -1,0 +1,103 @@
+[14:54:30] [ServerMain/INFO]: [bootstrap] Running Java 21 (Java HotSpot(TM) 64-Bit Server VM 21.0.2+13-LTS-58; Oracle Corporation null) on Windows 11 10.0 (amd64)
+[14:54:30] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
+[14:54:31] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[14:54:33] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Remapping plugin 'plugins\AuthMe-5.6.0-beta2.jar'...
+[14:54:33] [Paper Plugin Remapper Thread - 1/INFO]: [PluginRemapper] Remapping plugin 'plugins\CoreProtect-22.2.jar'...
+[14:54:33] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins\GSit-1.9.5.jar'...
+[14:54:33] [Paper Plugin Remapper Thread - 3/INFO]: [PluginRemapper] Remapping plugin 'plugins\PlasmoVoice-Paper-2.0.8.jar'...
+[14:54:34] [Paper Plugin Remapper Thread - 1/INFO]: [PluginRemapper] Done remapping plugin 'plugins\CoreProtect-22.2.jar' in 1343ms.
+[14:54:34] [Paper Plugin Remapper Thread - 1/INFO]: [PluginRemapper] Remapping plugin 'plugins\TAB v4.1.6.jar'...
+[14:54:34] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'plugins\GSit-1.9.5.jar' in 1576ms.
+[14:54:34] [Paper Plugin Remapper Thread - 1/INFO]: [PluginRemapper] Done remapping plugin 'plugins\TAB v4.1.6.jar' in 496ms.
+[14:54:35] [Paper Plugin Remapper Thread - 3/INFO]: [PluginRemapper] Done remapping plugin 'plugins\PlasmoVoice-Paper-2.0.8.jar' in 2238ms.
+[14:54:35] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Done remapping plugin 'plugins\AuthMe-5.6.0-beta2.jar' in 2775ms.
+[14:54:36] [ServerMain/INFO]: [PluginInitializerManager] Initialized 5 plugins
+[14:54:36] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (5):
+ - AuthMe (5.6.0-beta2-b2453), CoreProtect (22.2), GSit (1.9.5), PlasmoVoice (2.0.8), TAB (4.1.6)
+[14:54:40] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[14:54:40] [ServerMain/INFO]: Found new data pack file/bukkit, loading it automatically
+[14:54:40] [ServerMain/INFO]: Found new data pack paper, loading it automatically
+[14:54:40] [ServerMain/INFO]: No existing world data, creating new world
+[14:54:41] [ServerMain/INFO]: Loaded 1290 recipes
+[14:54:41] [ServerMain/INFO]: Loaded 1399 advancements
+[14:54:42] [Server thread/INFO]: Starting minecraft server version 1.21
+[14:54:42] [Server thread/INFO]: Loading properties
+[14:54:42] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
+[14:54:43] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[14:54:43] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[14:54:43] [Server thread/INFO]: Using 4 threads for Netty based IO
+[14:54:43] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 2 worker threads, and population gen parallelism of 2 threads
+[14:54:44] [Server thread/INFO]: Default game type: SURVIVAL
+[14:54:44] [Server thread/INFO]: Generating keypair
+[14:54:44] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:54:44] [Server thread/INFO]: Using default channel type
+[14:54:44] [Server thread/INFO]: Paper: Using Java compression from Velocity.
+[14:54:44] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[14:54:44] [Server thread/INFO]: [TAB] Loading server plugin TAB v4.1.6
+[14:54:44] [Server thread/INFO]: [PlasmoVoice] Loading server plugin PlasmoVoice v2.0.8
+[14:54:44] [Server thread/INFO]: [GSit] Loading server plugin GSit v1.9.5
+[14:54:45] [Server thread/INFO]: [CoreProtect] Loading server plugin CoreProtect v22.2
+[14:54:45] [Server thread/INFO]: [AuthMe] Loading server plugin AuthMe v5.6.0-beta2-b2453
+[14:54:45] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[14:54:45] [Server thread/INFO]: [PlasmoVoice] Enabling PlasmoVoice v2.0.8
+[14:54:46] [Server thread/INFO]: [PlasmoVoice] UDP server is started on /[0:0:0:0:0:0:0:0]:25565
+[14:54:47] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14:54:47] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[14:54:47] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14:54:47] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[14:54:47] [Server thread/INFO]: Preparing level "world"
+[14:54:47] [pool-16-thread-1/WARN]: [PlasmoVoice] New version available 2.0.10: https://cdn.modrinth.com/data/1bZhdhsH/versions/oD2bUPCy/PlasmoVoice-Paper-2.0.10.jar
+[14:54:52] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:54:55] [Server thread/INFO]: Time elapsed: 2496 ms
+[14:54:55] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[14:54:56] [Server thread/INFO]: Time elapsed: 957 ms
+[14:54:56] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[14:54:56] [Server thread/INFO]: Time elapsed: 240 ms
+[14:54:56] [Server thread/INFO]: [TAB] Enabling TAB v4.1.6
+[14:54:56] [Server thread/INFO]: [TAB] Loaded NMS hook in 150ms
+[14:54:57] [Server thread/INFO]: [TAB] Enabled in 703ms
+[14:54:57] [Server thread/INFO]: [GSit] Enabling GSit v1.9.5
+[14:54:57] [Server thread/INFO]: [GSit] The plugin was successfully enabled.
+[14:54:57] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v22.2
+[14:55:04] [Server thread/INFO]: [CoreProtect] CoreProtect has been successfully enabled! 
+[14:55:04] [Server thread/INFO]: [CoreProtect] Using SQLite for data storage.
+[14:55:04] [Server thread/INFO]: --------------------
+[14:55:04] [Server thread/INFO]: [CoreProtect] Enjoy CoreProtect? Join our Discord!
+[14:55:04] [Server thread/INFO]: [CoreProtect] Discord: www.coreprotect.net/discord/
+[14:55:04] [Server thread/INFO]: --------------------
+[14:55:04] [Server thread/INFO]: [AuthMe] Enabling AuthMe v5.6.0-beta2-b2453
+[14:55:05] [Server thread/INFO]: [AuthMe] Created column 'regdate' and set the current timestamp, 1724846105321, to all 0 rows
+[14:55:06] [Server thread/INFO]: [AuthMe] SQLite Setup finished
+[14:55:06] [Server thread/INFO]: [AuthMe] No supported permissions system found! Permissions are disabled!
+[14:55:07] [Server thread/WARN]: [AuthMe] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[14:55:07] [Server thread/INFO]: [AuthMe] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
+[14:55:07] [Server thread/INFO]: [spark] Starting background profiler...
+[14:55:07] [Server thread/INFO]: [spark] The async-profiler engine is not supported for your os/arch (windows11/amd64), so the built-in Java engine will be used instead.
+[14:55:07] [Server thread/INFO]: Done preparing level "world" (20.288s)
+[14:55:07] [Server thread/INFO]: Running delayed init tasks
+[14:55:07] [Craft Scheduler Thread - 2 - AuthMe/INFO]: [AuthMe] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[14:55:07] [Craft Scheduler Thread - 2 - AuthMe/WARN]: [AuthMe] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[14:55:07] [Craft Scheduler Thread - 2 - AuthMe/INFO]: [AuthMe] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[14:55:07] [Server thread/INFO]: Done (37.704s)! For help, type "help"
+[14:55:07] [Server thread/INFO]: Timings Reset
+[14:55:07] [Craft Scheduler Thread - 2 - AuthMe/WARN]: [AuthMe] Could not download GeoLiteAPI database [FileNotFoundException]: plugins\AuthMe\GeoLite2-Country.mmdb (Не удается найти указанный файл)
+[14:55:08] [Thread-10/INFO]: --------------------
+[14:55:08] [Thread-10/INFO]: [CoreProtect] Version 22.4 is now available.
+[14:55:08] [Thread-10/INFO]: [CoreProtect] Download: www.coreprotect.net/download/
+[14:55:08] [Thread-10/INFO]: --------------------
+[15:03:20] [User Authenticator #0/INFO]: UUID of player TheSuspectTS is 58f56bc4-c073-3c63-a2e9-2a0f7193175c
+[15:03:21] [Server thread/INFO]: TheSuspectTS joined the game
+[15:03:21] [Server thread/INFO]: TheSuspectTS[/127.0.0.1:63798] logged in with entity id 42 at ([world]-8.5, 79.0, 2.5)
+[15:03:21] [TAB Processing Thread/INFO]: [TAB] [WARN] Player TheSuspectTS's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[15:03:31] [Server thread/INFO]: TheSuspectTS lost connection: Disconnected
+[15:03:31] [Server thread/INFO]: TheSuspectTS left the game
+[15:07:04] [User Authenticator #1/INFO]: UUID of player TheSuspectTS is 58f56bc4-c073-3c63-a2e9-2a0f7193175c
+[15:07:04] [Server thread/INFO]: TheSuspectTS joined the game
+[15:07:04] [Server thread/INFO]: TheSuspectTS[/127.0.0.1:63977] logged in with entity id 198 at ([world]-8.5, 79.0, 2.5)
+[15:07:04] [TAB Processing Thread/INFO]: [TAB] [WARN] Player TheSuspectTS's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[15:07:14] [Server thread/INFO]: [AuthMe] TheSuspectTS registered 127.0.0.1
+[15:07:14] [Craft Scheduler Thread - 10 - AuthMe/INFO]: [AuthMe] TheSuspectTS logged in 127.0.0.1
+[15:07:28] [Server thread/INFO]: Made TheSuspectTS a server operator
+[15:07:36] [Server thread/INFO]: TheSuspectTS issued server command: /plugins
+[15:07:48] [Server thread/INFO]: TheSuspectTS issued server command: /sit
+[15:07:50] [Server thread/INFO]: TheSuspectTS issued server command: /sit
